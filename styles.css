@@ -9,12 +9,13 @@ body {
     border: none;
     border-radius: 30px;
     margin: 15%;
-    padding: 20px;
 }
 
 h1 {
     text-align: center;
     font-size: 7rem;
+    margin: 0%;
+    padding: 0%;
 }
 
 #navigation_bar {
