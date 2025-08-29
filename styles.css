@@ -40,16 +40,10 @@ main {
 }
 
 img {
-    width: 1%;
+    width: 10%;
     height: auto;
     max-height: none;
     border: none;
     border-radius: 15px;
     margin: 20px;
-}
-
-p {
-    display: flex;
-    align-items: center;
-    text-align: center;
 }
