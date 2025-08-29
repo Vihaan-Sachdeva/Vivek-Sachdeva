@@ -40,10 +40,14 @@ main {
 }
 
 img {
-    width: 15%;
+    width: 30%;
     height: auto;
     max-height: none;
     border: none;
     border-radius: 15px;
     margin: 20px;
+}
+
+p {
+    padding-top: 50px;
 }
