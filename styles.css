@@ -2,9 +2,6 @@ body {
     background-image: linear-gradient(rgb(255, 255, 255), rgb(142, 206, 231), rgb(255, 255, 255));
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(255, 255, 255);
-    display: flex;
-    align-items: center;
-    font-size: 1rem;
 }
 
 #bg_card {
@@ -21,11 +18,15 @@ h1 {
 
 #navigation_bar {
     text-align: center;
+    display: inline-block;
 }
 
 img {
-    width: 30%;
-    height: 30%;
+    max-width: 30%;
+    height: auto;
     border: none;
     border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
 }
