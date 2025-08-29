@@ -40,8 +40,8 @@ main {
 }
 
 img {
-    width: 226.8px;
-    height: 403.2px;
+    width: 226.8px !important;
+    height: auto !important;
     border: none;
     border-radius: 15px;
     margin: 20px;
