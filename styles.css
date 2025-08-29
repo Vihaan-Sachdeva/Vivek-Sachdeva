@@ -24,9 +24,21 @@ h1 {
     justify-content: center;
 }
 
-a {
+#navigation_bar strong {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#navigation_bar a {
     text-decoration: none;
     color: rgb(255, 255, 255);
+    margin-left: 5px;
+}
+
+main {
+    display: flex;
+    align-items: flex-start;
+    padding: 20px;
 }
 
 .img_container {
