@@ -47,3 +47,8 @@ img {
     border-radius: 15px;
     margin: 20px;
 }
+
+p {
+    display: flex;
+    align-items: center;
+}
