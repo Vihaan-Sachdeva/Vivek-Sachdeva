@@ -9,6 +9,7 @@ body {
     border: none;
     border-radius: 30px;
     margin: 15%;
+    padding: 20px;
 }
 
 h1 {
@@ -18,7 +19,9 @@ h1 {
 
 #navigation_bar {
     text-align: center;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 img {
@@ -26,4 +29,5 @@ img {
     height: auto;
     border: none;
     border-radius: 15px;
+    margin: 20px;
 }
