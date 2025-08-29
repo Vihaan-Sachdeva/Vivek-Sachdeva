@@ -41,13 +41,8 @@ main {
 
 img {
     width: 30%;
-    height: auto;
-    max-height: none;
+    height: 30%;
     border: none;
     border-radius: 15px;
     margin: 20px;
-}
-
-p {
-    padding-top: 50px;
 }
