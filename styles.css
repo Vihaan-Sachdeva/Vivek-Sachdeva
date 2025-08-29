@@ -8,7 +8,7 @@ body {
     background-color: rgb(106, 160, 182);
     border: none;
     border-radius: 30px;
-    margin: 7.5%;
+    margin: 15%;
 }
 
 h1 {
@@ -40,8 +40,8 @@ main {
 }
 
 img {
-    width: 226.8px !important;
-    height: auto !important;
+    width: 15%;
+    height: auto;
     border: none;
     border-radius: 15px;
     margin: 20px;
