@@ -1,9 +1,8 @@
 body {
-    background-image: linear-gradient(rgb(209, 125, 125), blue);
+    background-image: linear-gradient(rgb(white, white, rgb(142, 206, 231)));
 }
 
 img {
     width: 30%;
     height: auto;
 }
-
