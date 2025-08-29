@@ -24,6 +24,11 @@ h1 {
     gap: 20px;
 }
 
+.img_container {
+    display: flex;
+    align-items: center;
+}
+
 img {
     max-width: 30%;
     height: auto;
