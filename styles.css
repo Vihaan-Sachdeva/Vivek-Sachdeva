@@ -45,7 +45,6 @@ main {
 }
 
 img {
-    max-width: 140px;
     height: auto;
     border: none;
     border-radius: 15px;
