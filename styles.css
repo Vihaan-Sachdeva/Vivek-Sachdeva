@@ -39,14 +39,8 @@ main {
     padding: 2px;
 }
 
-.img_container {
-    display: flex;
-    align-items: stretch;
-    gap: 20px;
-}
-
 img {
-    height: 100%;
+    max-height: 30%;
     width: auto;
     border: none;
     border-radius: 15px;
