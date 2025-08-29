@@ -35,13 +35,13 @@ h1 {
 
 main {
     display: flex;
-    align-items: flex-start;
+    align-items:flex-start;
     padding: 2px;
 }
 
 img {
-    width: 30%;
-    height: 30%;
+    width: 453.6px;
+    height: 806.4;
     border: none;
     border-radius: 15px;
     margin: 20px;
