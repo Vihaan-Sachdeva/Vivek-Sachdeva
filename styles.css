@@ -20,7 +20,6 @@ h1 {
 
 #navigation_bar {
     text-align: center;
-    margin-bottom: 50px;
 }
 
 #navigation_bar strong {
@@ -46,7 +45,7 @@ main {
 }
 
 img {
-    max-width: 250px;
+    max-width: 140px;
     height: auto;
     border: none;
     border-radius: 15px;
