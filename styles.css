@@ -2,6 +2,14 @@ body {
     background-image: linear-gradient(rgb(white, white, rgb(142, 206, 231)));
 }
 
+#card{
+    background-color: white;
+    border: none;
+    border-radius: 15px;
+    margin: 10%;
+}
+
+
 img {
     width: 30%;
     height: auto;
