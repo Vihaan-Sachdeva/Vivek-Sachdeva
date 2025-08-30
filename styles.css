@@ -13,7 +13,7 @@ body {
 
 h1 {
     text-align: center;
-    font-size: clamp (4rem, 5rem + 4vw, 8rem);
+    font-size: clamp(1.85rem, 5vw + 1.85rem, 7rem);
     margin: 0;
     padding: 0;
 }
